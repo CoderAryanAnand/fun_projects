@@ -1,0 +1,44 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/hPbVmtS2"]
+[Date "2020.04.23"]
+[Round "-"]
+[White "babljak01"]
+[Black "EV3_Mindstorms"]
+[Result "0-1"]
+[UTCDate "2020.04.23"]
+[UTCTime "14:17:34"]
+[WhiteElo "2112"]
+[BlackElo "2123"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Bd3 cxd4 5. Nxd4 Nc6 6. c3 e6 7. O-O Be7 8. Bg5 O-O 9. Nd2 h6 10. Bh4 Ne5 11. Bc2 a6 12. h3 b5 13. f4 Nc4 14. N2f3 Ne3 15. Qd3 Nxf1 16. Rxf1 Ne8 17. e5 g6 18. Nc6 Qb6+ 19. Kh1 Bxh4 20. Nxh4 Qc7 21. Nxg6 fxg6 22. Qxg6+ Qg7 23. Ne7+ Kh8 24. exd6 Nxd6 25. Nxc8 Qxg6 26. Bxg6 Raxc8 27. g3 Rg8 28. f5 exf5 29. Bxf5 Nxf5 30. Rxf5 Rxg3 31. Kh2 Rcg8 32. h4 Rg2+ 33. Kh1 Rxb2 34. Rf6 Rd8 0-1
+
+[Event "IBM Man-Machine, New York USA"]
+[Site "01"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Garry Kasparov"]
+[Black "Deep Blue (Computer)"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.Nf3 d5 2.g3 Bg4 3.b3 Nd7 4.Bb2 e6 5.Bg2 Ngf6 6.O-O c6 7.d3
+Bd6 8.Nbd2 O-O 9.h3 Bh5 10.e3 h6 11.Qe1 Qa5 12.a3 Bc7 13.Nh4
+g5 14.Nhf3 e5 15.e4 Rfe8 16.Nh2 Qb6 17.Qc1 a5 18.Re1 Bd6
+19.Ndf1 dxe4 20.dxe4 Bc5 21.Ne3 Rad8 22.Nhf1 g4 23.hxg4 Nxg4
+24.f3 Nxe3 25.Nxe3 Be7 26.Kh1 Bg5 27.Re2 a4 28.b4 f5 29.exf5
+e4 30.f4 Bxe2 31.fxg5 Ne5 32.g6 Bf3 33.Bc3 Qb5 34.Qf1 Qxf1+
+35.Rxf1 h5 36.Kg1 Kf8 37.Bh3 b5 38.Kf2 Kg7 39.g4 Kh6 40.Rg1
+hxg4 41.Bxg4 Bxg4 42.Nxg4+ Nxg4+ 43.Rxg4 Rd5 44.f6 Rd1 45.g7
+1-0
+
