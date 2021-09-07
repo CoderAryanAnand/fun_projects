@@ -1,0 +1,7 @@
+selpath : C:\Users\iitda\anaconda3\envs\Corona World Map\Lib\site-packages\pywhatkit\chromedriver.exe
+--------------------
+Date: 18:6:2020
+Time: 14:41
+Phone number: +41 79 879 43 91
+Message: same. Please reply "yes"
+--------------------
